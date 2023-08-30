@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1677602568 source:c:\users\rfo\dropbox\yachay\cursos\foundations of programming\workshops\16. trees\mstprim\main.c
+	"sentinel.h"
+
+1677598760 c:\users\rfo\dropbox\yachay\cursos\foundations of programming\workshops\16. trees\mstprim\sentinel.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1677684768 source:d:\6. sexto semestre\fundamentos de programación 2\new codes\main.c
+	"sentinel.h"
+
+1677598760 d:\6. sexto semestre\fundamentos de programación 2\new codes\sentinel.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

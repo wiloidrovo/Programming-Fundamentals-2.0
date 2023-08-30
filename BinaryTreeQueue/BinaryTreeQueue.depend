@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677638062 source:c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\16. trees\binarytreequeue\main.c
+	"tree.h"
+
+1677637986 c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\16. trees\binarytreequeue\tree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

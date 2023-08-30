@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1675221993 source:c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\13. stackqueue\stack_queue\stackqueue.c
+	"stackqueue.h"
+
+1675222494 c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\13. stackqueue\stack_queue\stackqueue.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1675222628 source:c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\13. stackqueue\stack_queue\main.c
+	"stackqueue.h"
+
+1675351329 source:d:\6. sexto semestre\fundamentos de programación 2\new codes\stack_queue\stackqueue.c
+	"stackqueue.h"
+
+1675351373 d:\6. sexto semestre\fundamentos de programación 2\new codes\stack_queue\stackqueue.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1675377128 source:d:\6. sexto semestre\fundamentos de programación 2\new codes\stack_queue\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

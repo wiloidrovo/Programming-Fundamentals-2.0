@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1670356951 source:c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\8. cread csv - fixed size\readcsvlib\csvreader.c
+	"csvreader.h"
+
+1670356923 c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\8. cread csv - fixed size\readcsvlib\csvreader.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1670378479 source:c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\8. cread csv - fixed size\readcsvlib\main.c
+	"csvreader.h"
+
+1671641784 source:d:\6. sexto semestre\fundamentos de programación 2\new codes\readcsvlib\csvreader.c
+	"csvreader.h"
+
+1671642584 d:\6. sexto semestre\fundamentos de programación 2\new codes\readcsvlib\csvreader.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1671637390 source:d:\6. sexto semestre\fundamentos de programación 2\new codes\readcsvlib\main.c
+	"csvreader.h"
+

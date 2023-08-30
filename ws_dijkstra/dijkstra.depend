@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1677027425 source:c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\15. graphs\dijkstra\main.c
+	"sentinel.h"
+
+1677025545 c:\users\rigo_\dropbox\yachay\cursos\foundations of programming\workshops\15. graphs\dijkstra\sentinel.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1677082977 source:d:\6. sexto semestre\fundamentos de programación 2\new codes\ws_dijkstra\main.c
+	"sentinel.h"
+
+1677081859 d:\6. sexto semestre\fundamentos de programación 2\new codes\ws_dijkstra\sentinel.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
